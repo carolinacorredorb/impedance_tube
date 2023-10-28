@@ -72,3 +72,6 @@ Please cite this article:
 Corredor-Bedoya, A.C..; Acuña, B.; Serpa, A.L.; Masiero, B. Effect of the excitation signal type on the absorption coefficient measurement using the impedance tube. Applied Acoustics, v. 171, p. 107659, jan 2021.
 
 DOI:10.1016/j.apacoust.2020.107659
+
+### Contact information
+carolinacorredorb@gmail.com
